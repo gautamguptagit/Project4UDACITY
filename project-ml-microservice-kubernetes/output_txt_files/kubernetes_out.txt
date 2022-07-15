@@ -1,4 +1,4 @@
-<paste log output from Kubernetes-mediated prediction, here>
+<paste log output from  Kubernetes-mediated prediction, here>
 NAMESPACE     NAME                               READY   STATUS    RESTARTS      AGE
 default       ggudacityproj4                     1/1     Running   0             3m42s
 kube-system   coredns-6d4b75cb6d-rprvj           1/1     Running   1 (39m ago)   94m
