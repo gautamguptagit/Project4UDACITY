@@ -1,1 +1,13 @@
 <paste log output from Kubernetes-mediated prediction, here>
+NAMESPACE     NAME                               READY   STATUS    RESTARTS      AGE
+default       ggudacityproj4                     1/1     Running   0             3m42s
+kube-system   coredns-6d4b75cb6d-rprvj           1/1     Running   1 (39m ago)   94m
+kube-system   etcd-minikube                      1/1     Running   1 (39m ago)   95m
+kube-system   kube-apiserver-minikube            1/1     Running   1 (39m ago)   95m
+kube-system   kube-controller-manager-minikube   1/1     Running   1 (39m ago)   95m
+kube-system   kube-proxy-cwcws                   1/1     Running   1 (39m ago)   94m
+kube-system   kube-scheduler-minikube            1/1     Running   1 (16m ago)   95m
+kube-system   storage-provisioner                1/1     Running   3 (16m ago)   95m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000

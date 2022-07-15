@@ -10,7 +10,7 @@ dockerpath=dockdockgg/ggdock
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker image tag ggudacityproj4 $dockerpath
+docker image tag ggudacityproj4 $dockerpath:latest
 
 # Step 3:
 # Push image to a docker repository
